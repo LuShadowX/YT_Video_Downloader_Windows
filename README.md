@@ -26,4 +26,4 @@ This is a crucial step. Adding FFmpeg's bin folder to the PATH allows you to run
 Step 4: Verify the installation:
 Open a new Command Prompt or PowerShell window and type ffmpeg -version. If the installation was successful, you'll see a list of version information.
 
-THANKYOU:)...seeya
+THANKYOU:)...seeya...
